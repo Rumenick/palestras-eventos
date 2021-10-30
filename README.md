@@ -1,6 +1,6 @@
 ## Participações em eventos
 
-Ambiente para disponibilização de apresentações e materiais quais usei em minhas palestrante em eventos, incluindo materiais de minicursos.
+Ambiente para disponibilização de apresentações e materiais quais usei em minhas palestrante, cursos e minicursos em eventos.
 
 
 ### Semana da Estatística USP/UFSCar (SEst - USP/UFScar)
