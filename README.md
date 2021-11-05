@@ -61,5 +61,5 @@ curso.
 
 link da apresentação: https://docs.google.com/presentation/d/12X-85qACU28sI_9Tsk37QVUu1oSFlCSBCF9eR9MaAZA/edit?usp=sharing
 
-Material suplementar: 
+Material suplementar: https://github.com/Rumenick/palestras-eventos/tree/main/docs/semana_ciencia_each_usp
 
