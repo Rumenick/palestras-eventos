@@ -2,6 +2,19 @@
 
 Ambiente para disponibilização de apresentações e materiais quais usei em minhas palestrante, cursos e minicursos em eventos.
 
+### V Workshop em Mineração de Dados
+
+Data do evento: 19/11/2020
+
+Organizadores: Universidade de Pernambuco e Universidade Federal Rural de Pernambuco
+
+Tema da mesa redonda: "A importância da formação acadêmica para a atuação do cientista de dados no mercado de trabalho"
+
+Título: O papel da instituição de ensino, do professor, do aluno e do mercado de trabalho na formação acadêmica
+
+Link da apresentação: 
+
+Link do vídeo: https://youtu.be/-ni8bfD3ThU?t=9350
 
 ### Semana da Estatística USP/UFSCar (SEst - USP/UFScar)
 
