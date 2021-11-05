@@ -43,3 +43,23 @@ Título: O papel da instituição de ensino, do professor, do aluno e do mercado
 Link da apresentação: https://github.com/Rumenick/palestras-eventos/blob/main/docs/wmd_apres_rumenickps.pptx
 
 Link do vídeo: https://youtu.be/-ni8bfD3ThU?t=9350
+
+### Semana da Ciência EACH-USP 2019
+
+Data do evento: 26, 27 e 28/03/2019
+
+Minicurso: Planejamento e análise estatística de experimentos usando o R
+
+Resumo: este é um curso básico em planejamento de experimentos e análise
+de dados provenientes de experimentos. Aplicações em diversas áreas são
+ilustradas ao longo do curso. Os experimentos realizados por cientistas e
+profissionais em indústrias são geralmente planejados. Alguns deles são mal
+planejados e outros bem planejados. Os experimentos bem planejados
+permitem a obtenção dos resultados de forma mais rápida, mais fácil e
+utilizando menos recursos. Isto é o que você deve aprender a fazer neste
+curso.
+
+link da apresentação: https://docs.google.com/presentation/d/12X-85qACU28sI_9Tsk37QVUu1oSFlCSBCF9eR9MaAZA/edit?usp=sharing
+
+Material suplementar: 
+
