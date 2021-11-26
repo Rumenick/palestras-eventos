@@ -4,9 +4,13 @@ Ambiente para disponibilização de apresentações e materiais quais usei em mi
 
 ## Próximos eventos
 
+Aguardando agenda.
+
+## Eventos anteriores
+
 ### Semana da Estatística da UFSM
 
-Data do evento: entre 22/11/2021 e 26/11/2021
+Data do evento: 25/11/2021
 
 Título: Como empreender com dados em tempos de cultura data-driven?
 
@@ -14,7 +18,9 @@ Resumo: Diante da avalanche de dados públicos e privados disponíveis e do cres
 
 Palavras-chave: empreendedorismo, intraempreendedorismo, produtos de dados, modelo de negócios, startup, métodos ágeis/adaptativos, data hunters, engenheiros de dados, ciência de dados, analista de dados.
 
-## Eventos anteriores
+Link da apresentação: https://lnkd.in/e-HHD-aM
+
+Link do vídeo: https://youtu.be/bKtS9jpWEXo?t=4320
 
 ### Semana da Estatística USP/UFSCar (SEst - USP/UFScar)
 
