@@ -54,7 +54,7 @@ Link do vídeo: https://youtu.be/-ni8bfD3ThU?t=9350
 
 Data do evento: 26, 27 e 28/03/2019
 
-Minicurso: Planejamento e análise estatística de experimentos usando o R
+Minicurso: Planejamento e Análise Estatística de Experimentos usando o R
 
 Resumo: este é um curso básico em planejamento de experimentos e análise
 de dados provenientes de experimentos. Aplicações em diversas áreas são
